@@ -2,7 +2,7 @@ from bitcoin.rpc import RawProxy
 
 proxy = RawProxy()
 
-tx_id = input("Enter transaction id: ")
+tx_id = input("Enter transaction_id: ")
 #Viena vertingiausių transakcijų Bitcoin tinkle
 #tx_id = '4410c8d14ff9f87ceeed1d65cb58e7c7b2422b2d7529afc675208ce2ce09ed7d'
 #0.06534852 BTC
